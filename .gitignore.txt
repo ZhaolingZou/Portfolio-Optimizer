@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Byte-compiled / cache
+*.egg-info/
+.eggs/
+*.sqlite3
+
+# Notebooks
+.ipynb_checkpoints
+
+# Test / coverage
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Frontend node_modules (if added later)
+node_modules/
+
+# Data & outputs (optional)
+data/
+outputs/
