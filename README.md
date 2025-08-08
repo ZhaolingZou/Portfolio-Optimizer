@@ -1,5 +1,7 @@
 # Portfolio Optimizer (Multi-Objective)
 
+## Demo
+<video src="docs/demo.mov" controls width="800"></video>
 A Python-based portfolio optimization tool that supports **three objectives** — return, risk, and liquidity — with a simple Flask web interface for visualization and interaction.
 
 ## Features
