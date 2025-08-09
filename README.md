@@ -2,6 +2,9 @@
 
 ## Demo
 ![Demo](docs/demo.gif)
+**Live Demo:** [Portfolio Optimizer on Render](https://portfolio-optimizer-7n1i.onrender.com)  
+*(Free tier — may take ~30s to load on first request)*
+
 A Python-based portfolio optimization tool that supports **three objectives** — return, risk, and liquidity — with a simple Flask web interface for visualization and interaction.
 
 ## Features
